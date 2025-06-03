@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MaazUmer0
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning AI
+- 🌱 I’m AI Student
+- ✨ I’m currently learning and doing internship of Computer Vision
 - 💞️ I’m looking to collaborate on Ai Models 
 - 📫 How to reach me through my email
 - 😄 Pronouns: Maaz
