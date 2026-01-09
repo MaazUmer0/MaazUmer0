@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MaazUmer0
 - 👀 I’m interested in coding
-- 🌱 I’m AI Student
-- ✨ I’m currently learning and doing internship of Computer Vision
+- 🌱 I’m AI Graduated
 - 💞️ I’m looking to collaborate on Ai Models 
-- 📫 How to reach me through my email
+- 📫 How to reach me through my email maazumerkhaliq@gmail.com
 - 😄 Pronouns: Maaz
 - ⚡ Fun fact: Lazy
 
